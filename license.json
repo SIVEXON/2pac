@@ -1,6 +1,8 @@
-{
-  "key": "SIVEXON-VIP-2026",
-  "license": "SIVEXON-VIP-2026",
-  "status": "active",
-  "valid": true
-}
+[
+  {
+    "key": "SIVEXON-VIP-2026",
+    "license": "SIVEXON-VIP-2026",
+    "status": "active",
+    "valid": true
+  }
+]
